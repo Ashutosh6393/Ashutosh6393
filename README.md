@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh6393" alt="ashutosh6393" /></a> </p>
 
-- 🔭 I’m currently working on a project named [Daily Wages](https://github.com/CodeCrafters032/DailyWages-website)
-
 - 🌱 I’m currently learning **React and some animation libraries**
 
 - 💬 Ask me about **React, Node.js, Express, HTML, CSS, JavaScript**
