@@ -12,13 +12,13 @@ Full Stack Web Developer – mastering the stack, not the plugins!
 
 ##
 
-🔭 **Focused on building projects**<br>
+🔭 **Focused on building innovative projects and learning new technologies**
 
-👯 **Exploring repositories for open source collaboration opportunities**<br>
+👯 **Exploring repositories for open source collaboration opportunities**
 
-🌱 **Just embarked on my journey with Next.js**<br>
+🌱 **Currently diving deep into Next.js**
 
-💬 **Ask me about web development**<br>
+💬 **Ask me about web development, JavaScript, or any cool tech!**
 
 ⚡ **Code is like humor. When you have to explain it, it’s bad.**<br><br>
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutoshv.19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshv19) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ashutshv19) <br>
