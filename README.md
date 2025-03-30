@@ -2,7 +2,6 @@
 
 <h1 align="center">I'm Ashutosh Verma</h1>
 <h3 align="center">
-Full Stack Web Developer – mastering the stack, not the plugins! 
 <br>
 
 *Painting the web without WordPress brushes!*
